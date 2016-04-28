@@ -5,7 +5,7 @@
 <mapper namespace="com.meki.test.dao.UserDAO">
 
     <insert id="insertUser" parameterType="com.meki.test.model.User">
-         insert into users(username,password,create_time)
+         insert into bbs_user(username,password,create_time)
          values(#{username},#{password},#{createTime});
     </insert>
 

@@ -10,7 +10,7 @@
 
     <!-- 映射map -->
     <mappers>
-       <!-- <mapper resource="mapper/UserMapper.xml" />-->
+        <!--<mapper resource="mapper/UserMapper.xml" />-->
         <!--<package name="com.meki.test.dao" />-->
     </mappers>
 </configuration>

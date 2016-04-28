@@ -4,5 +4,5 @@ import com.meki.test.model.User;
 
 public interface UserService {
  
-    public int addUser(User user);
+    int addUser(User user);
 }
